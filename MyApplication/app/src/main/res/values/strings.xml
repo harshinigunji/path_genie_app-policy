@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Path Genie</string>
+    <string name="app_illustration">Path Genie Illustration</string>
+    <string name="back_button">Go back</string>
+    <string name="app_logo">App Logo</string>
+    <string name="profile">Profile</string>
+    <string name="ai_assistant">AI Assistant</string>
+</resources>

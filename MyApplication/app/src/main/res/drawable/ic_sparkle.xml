@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Sparkle icon - Blue filled -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M12,3l1.27,4.11L17.38,5.9l-1.18,4.12L20.5,12l-4.3,1.98l1.18,4.12l-4.11,-1.21L12,21l-1.27,-4.11L6.62,18.1l1.18,-4.12L3.5,12l4.3,-1.98L6.62,5.9l4.11,1.21z"/>
+</vector>
